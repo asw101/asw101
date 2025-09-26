@@ -1,4 +1,5 @@
 Pinned: 
+| [microsoft/wassette](https://github.com/microsoft/wassette) 
 | [microsoft/open-source-discord](https://github.com/microsoft/open-source-discord) 
 | [Azure-Samples/azure-opensource-labs](https://github.com/Azure-Samples/azure-opensource-labs) 
 | [Azure-Samples/linux-postgres-migration](https://github.com/Azure-Samples/linux-postgres-migration) 
