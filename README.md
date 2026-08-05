@@ -1,16 +1,5 @@
 Pinned: 
 | [microsoft/wassette](https://github.com/microsoft/wassette) 
-| [asw101/codespaces](https://github.com/asw101/codespaces) 
 | [microsoft/open-source-discord](https://github.com/microsoft/open-source-discord) 
-| [Azure-Samples/azure-opensource-labs](https://github.com/Azure-Samples/azure-opensource-labs) 
-| [Azure-Samples/linux-postgres-migration](https://github.com/Azure-Samples/linux-postgres-migration) 
-| [the-gophers/gophercon-2021](https://github.com/the-gophers/gophercon-2021) 
-| [the-gophers/go-actions](https://github.com/the-gophers/go-actions) 
-
-More: 
-| [notes.aaronw.dev](https://notes.aaronw.dev/) 
-| [aaronw.dev](https://aaronw.dev/hello/) 
-| [Bluesky (@aaronw.dev)](https://bsky.app/profile/aaronw.dev) 
-| [Threads (@aaronw.dev)](https://aaronw.dev/hello/) 
-| <a rel="me" href="https://mastodon.social/@asw">mastodon.social/@asw</a> 
-| [Discord (as_w)](https://discordapp.com/users/289843004649504769/) 
+| [Azure-Samples/open-source-labs](https://github.com/Azure-Samples/open-source-labs) 
+| [asw101/ai-skills](https://github.com/asw101/ai-skills) 
